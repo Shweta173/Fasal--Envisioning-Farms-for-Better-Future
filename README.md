@@ -27,6 +27,16 @@ Agriculture presently occupies one-third of the world's land surface. For a big 
 > 5. **AI Based Help** - CareFACT is AI based solution which makes it the best platform to suggest farmers crops and also given them suggestions about not-so-good combinations and crop rotation techniques
 > 6. **Crop Yield and Estimation** - CareFACT will help ypu detrermine the growth of your formed field in the platform - how well it performs in all the 4 seasons.  This would help the farmers know about the estimated cost anf fundings to be taken beforehand.
 ## :sparkles: Project Information
+
+## :sparkles:Take a look at our website 
+<p align="center">
+
+![Desktop - 6](https://github.com/hariketsheth/Carefact---Envisioning-Farms-for-Future/assets/72455881/a9d74e8f-8f53-45c8-abb9-be630cbcc87c)
+
+![Desktop - 7](https://github.com/hariketsheth/Carefact---Envisioning-Farms-for-Future/assets/72455881/513fb53c-9ca4-49a4-bdd6-5ac4d7989e03)
+
+
+
 [![Language Used](https://img.shields.io/badge/FrontEnd-HTML,%20CSS,%20JavaScript,%20JQuery,%20React-blue)](https://github.com/hariketsheth/CareFACT)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Build](https://img.shields.io/badge/build-passing-green)](https://github.com/hariketsheth/CareFACT)
 
