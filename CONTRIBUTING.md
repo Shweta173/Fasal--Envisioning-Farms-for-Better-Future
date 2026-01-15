@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Hello 👋. We welcome you all to Fasaan🎊🎊
+Hello 👋. We welcome you all to Fasal🎊🎊
 =
 
 ## Contributing to this repository
