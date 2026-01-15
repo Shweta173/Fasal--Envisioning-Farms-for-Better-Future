@@ -40,13 +40,6 @@ Powered by artificial intelligence, Fasal recommends suitable crops, identifies 
 Crop Yield Prediction and Estimation
 Fasal predicts crop performance across all four seasons, helping farmers estimate production costs, expected returns, and funding requirements in advance.n
 
-## :sparkles:Take a look at our website 
-<p align="center">
-
-![Desktop - 6](https://github.com/hariketsheth/Fasal---Envisioning-Farms-for-Future/assets/72455881/a9d74e8f-8f53-45c8-abb9-be630cbcc87c)
-
-![Desktop - 7](https://github.com/hariketsheth/Fasal---Envisioning-Farms-for-Future/assets/72455881/513fb53c-9ca4-49a4-bdd6-5ac4d7989e03)
-
 
 
 [![Language Used](https://img.shields.io/badge/FrontEnd-HTML,%20CSS,%20JavaScript,%20JQuery,%20React-blue)](https://github.com/hariketsheth/Fasal)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
