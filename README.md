@@ -7,26 +7,38 @@
 [![Fasal Badge](https://img.shields.io/badge/Project-Fasal-orange?style=for-the-badge&logo=github)](https://github.com/hariketsheth/Fasal)
 
 ### :sparkles:About Fasal
-Agriculture is very significant in India's economy and jobs. Farmers' most prevalent problem is that they are unable to make informed decisions on which crops are supported in their areas, as well as market and profit prices. As a result, they have lower productivity and profit margins. The goal of this study is to propose an attempt to estimate agricultural output and price using machine learning, which will aid in crop selection based on soil type and meteorological conditions.
+Agriculture plays a vital role in India’s economy and provides employment to a large portion of the population. One of the major challenges faced by farmers is the lack of proper guidance in selecting suitable crops for their regions, along with limited access to accurate market and profit-related information. This often results in low productivity and reduced profit margins.
 
-Farmers do not have a single point of contact for all of their needs, including crop, market price, soil type, government programs, and the latest news. To make this easier for farmers, a portal based on machine learning is being developed.
+The objective of this study is to develop a machine learning–based approach for predicting agricultural yield and crop prices. By analyzing factors such as soil type and climatic conditions, the system aims to assist farmers in making informed decisions regarding crop selection.
+
+Additionally, farmers currently lack a centralized platform that provides access to essential information such as suitable crops, soil characteristics, market prices, government schemes, and the latest agricultural updates. To address this issue, a machine learning–based agricultural portal is proposed, offering a single point of access to all relevant information and support for farmers.
  
 ### :sparkles:About the Project 
-Several studies were undertaken recently in India, including the one on DFI, have brought out the problems afflicting the agriculture sector. 
+Several recent studies conducted in India, including the Doubling Farmers’ Income (DFI) initiative, have highlighted the key challenges affecting the agricultural sector. These studies emphasize the need for timely availability of agricultural inputs, greater focus on improving productivity—particularly for small and marginal farmers—and the adoption of modern farming techniques. They also recommend the optimal use of resources and informed crop selection through both macro- and micro-level planning.
 
-The recommendations of these studies include, inter alia, ensuring timely availability of inputs, an increased focus on measures to enhance the productivity - especially of small and marginal farms, adoption of modern agricultural practices, optimal use of inputs, choice of the right crops through macro and micro-level planning. Fasal comes from the Hindi terms "Fasal" and "Kisaan," which mean "crops" and "farmers," respectively. As the name says, we work as a farmer's companion. Farmers play a critical role in both meeting our basic food needs and altering the agricultural environment. Farmers manage agricultural practices to maintain the long-term survival of the entire flora and fauna. 
+Fasal is derived from the Hindi words “Fasal” (crops) and “Kisaan” (farmers), reflecting its role as a digital companion for farmers. As the name suggests, the platform is designed to support farmers in making informed agricultural decisions. Farmers play a crucial role in fulfilling basic food requirements and shaping the agricultural ecosystem. Through effective management of farming practices, they contribute to the long-term sustainability of soil, crops, and the overall balance of flora and fauna.
 
-Agriculture presently occupies one-third of the world's land surface. For a big majority of the world's population, it is the most essential activity since it produces food for people all over the world.
+Agriculture currently occupies nearly one-third of the Earth’s land surface and remains one of the most essential human activities, as it provides food for a large majority of the global population. Ensuring sustainable and efficient agricultural practices is therefore critical for food security and environmental balance.
 
->
-> The features include:
-> 1. **Gain Insights** - Centralized source of truth for farmers to gain insights into their land. Our software allows farmers to optimally plan farm layouts and maximize efficiency and revenue.
-> 2. **Plan Out Field** - The user is able to indicate plots of land where they want to plant and indicate the crop they want to plant there. Based on real-time data about air quality, soil and weather conditions,
-> 3. **Real Time Analysis with Environment Impact** - Fasal will determine how suitable a particular area is for planting a particular crop, and provide a general estimation on the expected value of a plot.
-> 4. **Environment Degradation** - Fasal would determine a Fasal Score that would determine the degradation the particular farm field is creating because of the crops and irrigation sources
-> 5. **AI Based Help** - Fasal is AI based solution which makes it the best platform to suggest farmers crops and also given them suggestions about not-so-good combinations and crop rotation techniques
-> 6. **Crop Yield and Estimation** - Fasal will help ypu detrermine the growth of your formed field in the platform - how well it performs in all the 4 seasons.  This would help the farmers know about the estimated cost anf fundings to be taken beforehand.
-## :sparkles: Project Information
+Key Features of the Fasal Platform
+
+Gain Insights
+Fasal serves as a centralized source of information, enabling farmers to gain deep insights into their farmland. The platform helps farmers plan farm layouts efficiently, optimize resource utilization, and maximize productivity and revenue.
+
+Field Planning
+Farmers can define individual land plots and select the crops they intend to cultivate. Using real-time data related to soil quality, weather conditions, and air quality, the system supports informed crop planning decisions.
+
+Real-Time Analysis with Environmental Impact
+Fasal evaluates the suitability of a specific plot for a selected crop and provides an estimated yield and economic value based on current environmental conditions.
+
+Environmental Degradation Assessment
+The platform computes a Fasal Score to assess the environmental impact of farming practices, including crop choice and irrigation methods. This score helps farmers understand and minimize land degradation.
+
+AI-Based Assistance
+Powered by artificial intelligence, Fasal recommends suitable crops, identifies unfavorable crop combinations, and suggests effective crop rotation techniques to maintain soil health and long-term productivity.
+
+Crop Yield Prediction and Estimation
+Fasal predicts crop performance across all four seasons, helping farmers estimate production costs, expected returns, and funding requirements in advance.n
 
 ## :sparkles:Take a look at our website 
 <p align="center">
